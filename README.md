@@ -1,4 +1,4 @@
-# P4Struct <Program for Structural Design>
+# P4Struct: Program for Structural Design
 
 This is a lightweight and visual design software that integrates pre-processing, finite element analysis, topology optimization, and post-processing.
 
