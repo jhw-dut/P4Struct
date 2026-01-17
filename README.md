@@ -13,8 +13,12 @@ Please follow the procedure below:
   
   Step 4: Finally, you can start using it.  
 
-## Note:This is an initial version which may contain numerous bugs.Please contact me promptly if you encounter any issues.
 
-## Programmed by: Huaiwang Ji  
+Note-1: This is an initial version which may contain numerous bugs.  
 
-## Contact information: jihuaiwang@outlook.com
+Note-2: Please contact me promptly if you encounter any issues.
+
+
+Programmed by: Huaiwang Ji  
+
+Contact information: <jihuaiwang@outlook.com>
